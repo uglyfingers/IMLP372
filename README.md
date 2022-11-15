@@ -1,2 +1,2 @@
 # IMLP372
-Machine learning 372 primary
+Machine learning primary 372 
